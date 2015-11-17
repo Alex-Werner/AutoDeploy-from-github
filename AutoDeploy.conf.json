@@ -1,0 +1,9 @@
+{
+	"port": 8001, 
+	"repositories": 
+	[{
+		"url": "https://github.com/Alex-Werner/Optimoc", 
+		"path": "/var/www/demo.optimoc.fr/",
+		"deploy": "echo deploying"
+	}]
+}
